@@ -40,3 +40,6 @@ To run this project, you can clone this repository and run the main.ipynb notebo
 ## Conclusion
 
 The classification models used in this project can help predict the occurrence of violent crimes in different communities, which can be useful for law enforcement agencies to take preventive measures. Further analysis can be done to identify the factors that contribute to the occurrence of violent crimes and to develop targeted interventions to reduce them.
+
+![ROC Curve for All Classification Models](https://github.com/visheshgupta-BA/Classification-of-Violent-Crime-Prediction-in-Global-Communities/blob/main/Charts/ROC-Curve%20for%20All%20Classification_Models.png){:width="250px" height="250px"}
+
